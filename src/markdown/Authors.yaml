@@ -194,7 +194,13 @@
   office: Tokyo
   links:
       instagram: 'noguchika'
-
+- id: May Chen
+  title: Product Designer
+  active: true
+  icon: fa_map_marked_alt
+  startDate: 2021-04-20
+  office: Diamond Bar
+  
 # Inactive Designers
 - id: Cassandra Balbas
   title: UX Design Intern
